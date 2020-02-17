@@ -98,3 +98,4 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 
 * G.Kampf; Journal of Hospital Infection Volume 98, Issue 4, April 2018, Pages 331-338; Efficacy of ethanol against viruses in hand disinfection; https://doi.org/10.1016/j.jhin.2017.08.025; 乙醇在手部消毒對抗病毒們的功效 https://www.sciencedirect.com/science/article/pii/S0195670117304693
 
+* Günter Kampf, Daniel Todt, Stephanie Pfaender, Eike Steinmann; Jan. 2020; Journal of Hospital Infection; Persistence of coronaviruses on inanimate surfaces and its inactivation with biocidal agents; 冠狀病毒們在無生命表面上的持久性以及殺菌劑上的滅活作用; （這篇比較了SARS, HCoV, MERS 等冠狀病毒在不同溫度以及表面下的持久性，以及不同種類和濃度，例如乙醇、異丙醇下的效果） https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/abstract
