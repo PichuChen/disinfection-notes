@@ -78,3 +78,7 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 * 腸病毒71型相關 (英文) https://microchemlab.com/microorganisms/enterovirus-71
 
 * 冠狀病毒相關 (英文) https://microchemlab.com/microorganisms/coronavirus
+
+* H.F.Rabenau G.Kampf J.Cinatl H.W.Doerr; Journal of Hospital Infection Volume 61, Issue 2, October 2005, Pages 107-111; Efficacy of various disinfectants against SARS coronavirus; https://doi.org/10.1016/j.jhin.2004.12.023  各種消毒劑對SARS病毒的功效 https://www.sciencedirect.com/science/article/pii/S0195670105000447
+
+* G.Kampf; Journal of Hospital Infection Volume 98, Issue 4, April 2018, Pages 331-338; Efficacy of ethanol against viruses in hand disinfection; https://doi.org/10.1016/j.jhin.2017.08.025; 乙醇在手部消毒對抗病毒們的功效 https://www.sciencedirect.com/science/article/pii/S0195670117304693
