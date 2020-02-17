@@ -24,6 +24,16 @@
 # 病原體種類
 
 
+### SARS
+
+
+### 腸病毒 71 型
+
+* 75% 乙醇並沒有很好的效果 [4]
+* 85% 乙醇可以到千分之一的效果 [4]
+* 95% 乙醇可以到十萬分之一的效果，視為有效 [4]
+
+
 # 消毒總類
 
 ## 高程度消毒
@@ -69,6 +79,9 @@
 [3] C. F. Carson,1 K. A. Hammer,1 and T. V. Riley1,2,*; 2006 Jan; Melaleuca alternifolia (Tea Tree) Oil: a Review of Antimicrobial and Other Medicinal Properties, Clin Microbiol Rev. 2006 Jan; 19(1): 50–62.
 doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360273/
 
+
+[4] S.C.Chang, W.C.Li, K.Y.Huang, Y.C.Huang, C.H.Chiu, C.J.Chen, Y.C.Hsieh, C.Y.Kuo, S.R.Shih. T.Y.Lin, (2013). Efficacy of alcohols and alcohol-based hand disinfectants against human enterovirus 71. Journal of Hospital Infection, 83(4), 288–293.  doi:10.1016/j.jhin.2012.12.010 酒精以及酒精手部消毒劑對於人類腸病毒71型的功效 
+
 # 消毒相關資料
 
 * 衛生署疾病管制局 06-環境監測之消毒滅菌與環境清潔.pdf https://www.cdc.gov.tw/File/Get/cxdtECr7rziDO2Ddc334-g
@@ -82,3 +95,4 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 * H.F.Rabenau G.Kampf J.Cinatl H.W.Doerr; Journal of Hospital Infection Volume 61, Issue 2, October 2005, Pages 107-111; Efficacy of various disinfectants against SARS coronavirus; https://doi.org/10.1016/j.jhin.2004.12.023  各種消毒劑對SARS病毒的功效 https://www.sciencedirect.com/science/article/pii/S0195670105000447
 
 * G.Kampf; Journal of Hospital Infection Volume 98, Issue 4, April 2018, Pages 331-338; Efficacy of ethanol against viruses in hand disinfection; https://doi.org/10.1016/j.jhin.2017.08.025; 乙醇在手部消毒對抗病毒們的功效 https://www.sciencedirect.com/science/article/pii/S0195670117304693
+
