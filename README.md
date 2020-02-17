@@ -74,3 +74,5 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 * 衛生署疾病管制局 06-環境監測之消毒滅菌與環境清潔.pdf https://www.cdc.gov.tw/File/Get/cxdtECr7rziDO2Ddc334-g
 
 * 小小整理網站 SMALLCOLLATION https://smallcollation.blogspot.com/2013/07/disinfection.html#gsc.tab=0
+
+* 腸病毒71型相關 (英文) https://microchemlab.com/microorganisms/enterovirus-71
