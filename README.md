@@ -56,14 +56,18 @@
 ## 煮沸法 [2]
 高溫殺菌， 100度熱水煮沸10~15分鐘，或是90度熱水煮沸20 ~ 30 分鐘，部分芽孢無法被殺死
 
+## 其他可能有抗菌效果的東西
 
+* 茶樹精油 (Tea Tree Oil, Melaleuca alternifolia) [3]
 
 # 資料來源
 
 [1]  https://www.sciencedirect.com/topics/chemistry/sterilization-and-disinfection
 
-[2] 衛生署疾病管制局 12.消毒與滅菌、供應中心隻感染管制措施(簡報檔).pdf https://www.cdc.gov.tw/File/Get/-twuasUoUIIX9qfI5ifVlQ
+[2] 衛生署疾病管制局; 12.消毒與滅菌、供應中心隻感染管制措施(簡報檔).pdf https://www.cdc.gov.tw/File/Get/-twuasUoUIIX9qfI5ifVlQ
 
+[3] C. F. Carson,1 K. A. Hammer,1 and T. V. Riley1,2,*; 2006 Jan; Melaleuca alternifolia (Tea Tree) Oil: a Review of Antimicrobial and Other Medicinal Properties, Clin Microbiol Rev. 2006 Jan; 19(1): 50–62.
+doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360273/
 
 # 消毒相關資料
 
