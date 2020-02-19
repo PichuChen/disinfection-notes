@@ -102,3 +102,7 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 
 
 * 一張表告訴你酒精、次氯酸水、漂白水對抗武漢肺炎差異！破解四迷思 (上面整理不少醫師說法) https://info.babyhome.com.tw/article/21824
+
+
+* 殺菌消毒薬 (日文) http://www.asahi-net.or.jp/~yq6k-srtn/kusurisakkinshoudoku.htm
+
