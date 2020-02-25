@@ -108,3 +108,7 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 
 * 70% ethanol in tap water... (英文) 關於是否應該使用自來水(tap water)來稀釋酒精的討論  http://www.protocol-online.org/biology-forums-2/posts/25181.html
 
+# 貢獻相關
+
+如果認為此文件有問題的話請自由建立 ISSUE 或者是送 PR 上來。
+
