@@ -23,10 +23,31 @@
 
 # 病原體種類
 
+### HCoV-229E
+
+在2003以前已知會感染人類的冠狀病毒之一，其症狀大致上是普通感冒 [5]
+
+在次氯酸納 0.01% (100 ppm), pH 8.0 ，接觸一分鐘無法滅活超過 3 log_10 的病原體 [6]
+在次氯酸納 0.10% (1000 ppm), pH 9.4 ，接觸一分鐘可以滅活超過 3 log_10 的病原體 [6]
+在次氯酸納 0.50% (5000 ppm), pH 11.0 ，接觸一分鐘可以滅活超過 3 log_10 的病原體 [6] 
+
+在乙醇 70%, pH 4.0，接觸一分鐘可以滅活超過 3 log_10 的病原體 [6] 
+
+在聚維酮碘 (優碘) 10% (1% 游離碘), pH 3.0 ，接觸一分鐘可以滅活超過 3 log_10 的病原體 [6] 
+
 
 ### SARS
 
 冠狀病毒的一種，有套膜
+
+
+在乙醇 70%, pH 4.0，接觸一分鐘可以滅活超過 3 log_10 的病原體 [6] 
+
+在異丙醇 100%, 接觸30秒可以滅活超過 3.31 log_10 的病原體 [6]
+在異丙醇 70%, 接觸30秒可以滅活超過 3.31 log_10 的病原體 [6]
+在乙醇 78%, 接觸30秒可以滅活超過 5.01 log_10 的病原體 [6] 
+
+
 
 ### 腸病毒 71 型
 
@@ -36,10 +57,13 @@ Human enterovirus 71
 * 85% 乙醇可以到千分之一的效果 [4]
 * 95% 乙醇可以到十萬分之一的效果，視為有效 [4]
 
-### COVID-19
+### SARS-CoV-2
 
-武漢肺炎的主要病原體，冠狀病毒的一種，有套膜
+舊稱 2019-nCoV
 
+武漢肺炎(COVID-19)的主要病原體，冠狀病毒的一種，有套膜
+
+目前 (2020年2月) 還沒有看到針對此病毒的滅活資訊，因此大家都是用 SARS 或是其他冠狀病毒做研究，另外要注意的是，處理SARS-CoV要有 P3 等級的實驗室才行。[7]
 
 
 # 消毒總類
@@ -89,6 +113,12 @@ doi: 10.1128/CMR.19.1.50-62.2006  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
 
 
 [4] S.C.Chang, W.C.Li, K.Y.Huang, Y.C.Huang, C.H.Chiu, C.J.Chen, Y.C.Hsieh, C.Y.Kuo, S.R.Shih. T.Y.Lin, (2013). Efficacy of alcohols and alcohol-based hand disinfectants against human enterovirus 71. Journal of Hospital Infection, 83(4), 288–293.  doi:10.1016/j.jhin.2012.12.010 酒精以及酒精手部消毒劑對於人類腸病毒71型的功效 
+
+[5] 張藏能;新型冠狀病毒與 SARS 經驗回顧;新光吳火獅紀念醫院;感染控制雜誌 2013 https://www.cdc.gov.tw/Uploads/archives/0aefe506-e1bc-4ff2-97c4-aa8959b6b330.pdf
+
+[6] Geller C, Varbanov M, Duval RE; Human coronaviruses: insights into environmental resistance and its influence on the development of new antiseptic strategies.; Viruses. 2012 Nov 12;4(11):3044-68. doi: 10.3390/v4113044.; https://www.ncbi.nlm.nih.gov/pubmed/23202515 
+
+[7] Chloé Geller, Mihayl Varbanov and Raphaël E. Duval; Human Coronaviruses: Insights into Environmental Resistance and Its Influence on the Development of New Antiseptic Strategies; viruses; 2012; 人類冠狀病毒：對環境的抗性及其對新型抗菌劑策略發展的影響及見解  DOI: 10.3390/v4113044 https://pubmed.ncbi.nlm.nih.gov/23202515-human-coronaviruses-insights-into-environmental-resistance-and-its-influence-on-the-development-of-new-antiseptic-strategies/ 
 
 # 消毒相關資料
 
